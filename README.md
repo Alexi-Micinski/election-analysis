@@ -1,8 +1,9 @@
 # Election Audit
 
 ## Overview of Audit:
+The Board of Elections requested analysis of the tabulated results from the US Congressional precinct in Colorado. A report was conducted for the total number of votes cast, the total number of votes for each candidate, the percentage votes for each candidate, and the winner of the election. 
 
-
+The election commission then requested some additional data to complete the audit including the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout.
 
 ## Election-Audit Results
 
