@@ -7,10 +7,18 @@
 ## Election-Audit Results
 
 * How many votes were cast in this congressional election?
-    * 
+    * 369,711 total votes were cast in the election.
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-    * 
+    * Jefferson: 10.5% (38,855)
+      Denver: 82.8% (306,055)
+      Arapahoe: 6.7% (24,801)
+      
+      | County      | Number Votes | Percentage of total votes |
+      | ----------- | -----------  | ----------- |
+      | Jefferson   | 38,855       | 10.5%       |
+      | Denver      | 306,055      | 82.8%       |
+      | Arapahoe    | 24,801       | 6.7%        |
 
 * Which county had the largest number of votes?
     * 
