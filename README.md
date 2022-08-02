@@ -38,5 +38,7 @@ The election commission then requested some additional data to complete the audi
 
 ## Election-Audit Summary
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+The script created for this election audit analysis and summary may be used for any election with the following modifications.
+1. Save the raw election resuslts file in a location that can be accessed by the script in line 9. Update the file name as necessary. Update the file name and path in line 11 to the preferred output location and file name.
+2. Make sure the Ballot ID is in column 1, County is in column 2, and Candidate in column 3. It's also important to not that this script expects clean data.
 
